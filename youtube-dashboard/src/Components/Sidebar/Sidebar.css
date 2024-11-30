@@ -1,0 +1,17 @@
+.custom-img-dashboard {
+    width: 25px;
+}
+
+.table-responsive-vertical {
+    max-height: 220px;
+    /* Adjust as needed */
+    overflow-y: auto;
+
+}
+
+.hide-scrollbar {
+    max-height: 220px;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
