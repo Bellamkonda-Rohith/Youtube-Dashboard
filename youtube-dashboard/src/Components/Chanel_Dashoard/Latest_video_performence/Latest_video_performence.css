@@ -1,0 +1,6 @@
+.custom-container {
+    height: 45vh;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
